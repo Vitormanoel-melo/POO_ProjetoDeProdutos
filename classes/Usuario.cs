@@ -26,7 +26,7 @@ namespace POO_ProjetoDeProdutos.classes
             
             Senha = "123456";
             
-            DataCadastro = DateTime.Today;
+            DataCadastro = DateTime.Now;
 
         }
 

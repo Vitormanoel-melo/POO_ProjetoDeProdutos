@@ -37,7 +37,7 @@ namespace POO_ProjetoDeProdutos.classes
 
             novoProduto.cadastradoPor = new Usuario();
 
-            DataCadastro = DateTime.UtcNow;
+            DataCadastro = DateTime.Now;
 
             ListaDeProdutos.Add(novoProduto);
 
